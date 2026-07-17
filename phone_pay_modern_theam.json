@@ -1,0 +1,162 @@
+{
+  "name": "PhonePe Modern Dashboard",
+  "dataColors": [
+    "#5E35B1",
+    "#7E57C2",
+    "#9575CD",
+    "#B39DDB",
+    "#D1C4E9",
+    "#4527A0",
+    "#673AB7",
+    "#512DA8"
+  ],
+  "background": "#F7F4FF",
+  "foreground": "#2E2E2E",
+  "tableAccent": "#5E35B1",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 16,
+            "color": {
+              "solid": {
+                "color": "#2E2E2E"
+              }
+            }
+          }
+        ],
+
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#555555"
+              }
+            }
+          }
+        ],
+
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 26,
+            "color": {
+              "solid": {
+                "color": "#5E35B1"
+              }
+            }
+          }
+        ],
+
+        "categoryLabels": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#666666"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "columnChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#5E35B1"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "barChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#5E35B1"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#5E35B1"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "donutChart": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
