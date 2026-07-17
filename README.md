@@ -183,11 +183,11 @@ Through this project I learned:
 
 **Mamta Mukate**
 
-📧 Email: *your-email@example.com*
+📧 Email: *mamtamukate@email.com*
 
-🔗 LinkedIn: *Add your LinkedIn Profile*
+🔗 LinkedIn: *(https://www.linkedin.com/in/mamta-mukate-a7ab622a3/)*
 
-💻 GitHub: *Add your GitHub Profile*
+💻 GitHub: *https://github.com/mamtamukate*
 
 ---
 
