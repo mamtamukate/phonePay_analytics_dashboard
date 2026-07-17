@@ -145,13 +145,9 @@ The dashboard helps answer questions such as:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots here after uploading them.
-
-dashboard.png
-
 
 markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
